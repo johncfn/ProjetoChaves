@@ -185,7 +185,7 @@ public class FrmPrincipal extends javax.swing.JFrame {
         // TODO add your handling code here:
         FrmCadastroUsuario frameCadastro = new FrmCadastroUsuario();
         frameCadastro.setVisible(true);
-        this.setVisible(true);
+        this.setVisible(false);
     }//GEN-LAST:event_btnCadastrarActionPerformed
 
     /**
